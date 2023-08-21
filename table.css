@@ -1,0 +1,12 @@
+table {
+    border-collapse: collapse;
+    width: 40%;
+    max-width: 500px;
+}
+main {
+    margin-right: 40%;
+    margin-left: 40%;
+}
+th, tr, td {
+    padding: 10px 20px;
+}
